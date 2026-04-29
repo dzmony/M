@@ -167,15 +167,15 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.h
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 1
 http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630675&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 2
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post2.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630676&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 3
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post3.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630677&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 4
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post4.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630678&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 5
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post5.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630679&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 6
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post6.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630680&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 1 HD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://live20.bozztv.com/akamaissh101/ssh101/osnmixflix/playlist.m3u8
