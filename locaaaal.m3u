@@ -123,6 +123,19 @@ http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extensio
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 1
+https://super-livetv.hima-sabry2015.workers.dev/?id=01
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 2
+https://super-livetv.hima-sabry2015.workers.dev/?id=02
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 3
+https://super-livetv.hima-sabry2015.workers.dev/?id=03
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 4
+https://super-livetv.hima-sabry2015.workers.dev/?id=04
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 5
+https://super-livetv.hima-sabry2015.workers.dev/?id=05
+#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 6
+https://super-livetv.hima-sabry2015.workers.dev/?id=06
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 1 HD
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 2 HD
