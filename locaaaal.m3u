@@ -165,7 +165,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.h
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=06
 
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 1
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post1.m3u8
+http://azers.online/play/live.php?mac=00:1A:79:BD:12:AC&stream=1630675&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 2
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/post2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 3
@@ -204,6 +204,18 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sab
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN_5_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2 SD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN_6_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN FR 1 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN1FR_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN FR 2 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN2FR_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN FR 3 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN3FR_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN EN 1 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN1EN_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN EN 2 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN2EN_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN EN 3 HD
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sabry2015.workers.dev/ch/beIN3EN_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  A
