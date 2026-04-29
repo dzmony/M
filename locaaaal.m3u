@@ -134,8 +134,14 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://w.shahidtv.net
 
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 1
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=ALWAN1
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 1
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://github.com/himasabry/xpola-player/raw/refs/heads/main/ALWAN1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 2
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=ALWAN2
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 2
+https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 3
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=ALWAN3
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 4
