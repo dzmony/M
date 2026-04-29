@@ -117,11 +117,21 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148132.m3u8
+https://super.hima-sabry2015.workers.dev/ch/THM1_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 2
-http://alpha-2ott.me/play/live.php?mac=00:1A:79:7c:33:5e&stream=1936352&extension=m3u8
+https://super.hima-sabry2015.workers.dev/ch/THM2_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 3
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/148115.m3u8
+https://super.hima-sabry2015.workers.dev/ch/THM3_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="Thmanyah",SPORT Thamanih 1 sd
+https://w.shahidtv.net/live/67324286/62788299/41.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="StarzPlay",StarzPlay SPORT 1 HD
+https://w.shahidtv.net/live/94939895/53753163/392.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="StarzPlay",StarzPlay SPORT 2 HD
+https://w.shahidtv.net/live/94939895/53753163/73347194/395.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/Thmanyah.png"group-title="StarzPlay",StarzPlay SPORT 3 HD
+https://w.shahidtv.net/live/94939895/53753163/398.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 1
 https://super-livetv.hima-sabry2015.workers.dev/?id=01
@@ -135,6 +145,19 @@ https://super-livetv.hima-sabry2015.workers.dev/?id=04
 https://super-livetv.hima-sabry2015.workers.dev/?id=05
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 6
 https://super-livetv.hima-sabry2015.workers.dev/?id=06
+
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 1
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 2
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 3
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 4
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 5
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POST Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="POST Sports",POST Sports 6
+https://github.com/himasabry/xpola-player/raw/refs/heads/main/post6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 1 HD
 http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
