@@ -191,11 +191,11 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://sr1.oz-tv.xyz/
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://sr1.oz-tv.xyz/s1/b_7_HD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 2 HD 1080p
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 2 HD 720p
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sport 2 HD 480p
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1 SD
 https://husa.wizgan2013.workers.dev/?id=4
