@@ -161,17 +161,20 @@ https://stream.camcloud.stream/stream/ed86507510ca/playlist.m3u8
 https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 1
-https://cors-proxy.cooks.fyi/https://thunderbolt-40gbps.com:443/live/qtTNEdtW/UApj2oXu/500283275.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116900.m3u8?token=kidn
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 2
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=02
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116901.m3u8?token=kidn
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 3
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=03
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116902.m3u8?token=kidn
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 4
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=04
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116903.m3u8?token=kidn
+
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 5
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=05
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116904.m3u8?token=kidn
+
 #EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 6
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super-livetv.hima-sabry2015.workers.dev/?id=06
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116905.m3u8?token=kidn
+
 
 #EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name="Duhok Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="(B)  KURDISH Sports",Duhok Sport HD
 https://dflive.app.tc/50.m3u8
