@@ -178,19 +178,19 @@
     },
   {
       "id": "14",
-      "name": "مباراة ريال مدريد ضد اشبيلية FHD",
+      "name": "alwan sport 1 ",
       "description": "بث مباشر للمباريات",
-      "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/Npm4MoRHD3R8wqQMakaBJurTaRHg4Fdr_fohfK9N5Qd0EfXXIja6wceXjeR7onZRR_s15HIBhoun1MVrvV9Fzw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+      "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+      "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
-        { "label": "720p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" },
-        { "label": "480p",  "url": "http://live.alkatlantv.com:8888/bein18k/index.m3u8" }
+        { "label": "1080p", "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8" },
+        { "label": "720p",  "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8" },
+        { "label": "480p",  "url": "https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
       "clear_key": "",
-      "category": "للمباريات المهمة"
+      "category": "alwan sport"
     },
   {
       "id": "15",
