@@ -192,6 +192,38 @@
       "clear_key": "",
       "category": "alwan sport"
     },
+    {
+      "id": "15",
+      "name": "alwan sport 2 ",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+      "url": "https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8" },
+        { "label": "720p",  "url": "https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8" },
+        { "label": "480p",  "url": "https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "alwan sport"
+    },
+    {
+      "id": "16",
+      "name": "alwan sport 3 ",
+      "description": "بث مباشر للمباريات",
+      "logo": "https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg",
+      "url": "https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8",
+      "qualities": [
+        { "label": "1080p", "url": "https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8" },
+        { "label": "720p",  "url": "https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8" },
+        { "label": "480p",  "url": "https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8" }
+      ],
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "referer": "",
+      "clear_key": "",
+      "category": "alwan sport"
+    },
   {
       "id": "15",
       "name": "مباراة ريال مدريد جودة متوسطة",
