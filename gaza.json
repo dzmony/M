@@ -1,8 +1,22 @@
 {
   "version": "5.0",
-  "title": "بداية اطلاق تطبيقي ",
+  "title": "بداية اطلاق التطبيق ",
   "message": "اهلا وسهلا بكم ",
-  "imageUrl": "https://alfadjr.dz/storage/media/atSewqFKtIUc6HQ98T6hN0Ag9rvAUV7U4wye6N9M.png",
+  "images": [
+    {
+      "url": "https://alfadjr.dz/storage/media/atSewqFKtIUc6HQ98T6hN0Ag9rvAUV7U4wye6N9M.png",
+      "duration": 5
+    },
+    {
+      "url": "https://alfadjr.dz/storage/media/atSewqFKtIUc6HQ98T6hN0Ag9rvAUV7U4wye6N9M.png",
+      "duration": 3
+    },
+    {
+      "url": "https://alfadjr.dz/storage/media/atSewqFKtIUc6HQ98T6hN0Ag9rvAUV7U4wye6N9M.png",
+      "duration": 4
+    }
+  ],
+  "slideInterval": 3,
   "date": "2026-05-26",
   "developerName": "HAMZA",
   "telegramUrl": "https://t.me/TECHIPTVPRO"
