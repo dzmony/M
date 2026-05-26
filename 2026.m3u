@@ -1,5 +1,9 @@
 
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="https://i.imgur.com/vxkap0u.png" group-title="كأس العالم FIFA 2026™", Max_Sport_HD_1
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1 (720)
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://raaeslivetv.raaeslive.com/Max_Sport_HD_1/index.m3u8
-#EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="https://i.imgur.com/ULVtvL1.png" group-title="كأس العالم FIFA 2026™", Max_Sport_HD_2
+#EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 2 (720)
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://raaeslivetv.raaeslive.com/Max_Sport_HD_2/index.m3u8
+#EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1 (360)
+https://ali.albesriali8.workers.dev/?url=http://raaeslivetv.raaeslive.com/Max_Sport_1/index.m3u8
+#EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1 (360)
+https://ali.albesriali8.workers.dev/?url=http://raaeslivetv.raaeslive.com/Max_Sport_2/index.m3u8
