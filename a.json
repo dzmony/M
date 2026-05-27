@@ -261,10 +261,10 @@
       "name": "مباراة ريال مدريد جودة متوسطة",
       "description": "بث مباشر للمباريات",
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
-      "url": "http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts",
+      "url": "http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1376206",
       "qualities": [
-        { "label": "1080p", "url": "http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts" },
-        { "label": "720p",  "url": "http://flexlive.lat:8080//live/Diegoher01/RqxsxKCXE9EK/269252.ts" }
+        { "label": "1080p", "url": "http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1376206" },
+        { "label": "720p",  "url": "http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1376206" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
