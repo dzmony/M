@@ -230,9 +230,9 @@
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
       "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_1/index.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_1/index.m3u8" },
-        { "label": "720p",  "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_1/index.m3u8" },
-        { "label": "360p",  "url": "http://raaeslivetv.raaeslive.com/Max_Sport_1/index.m3u8" }
+        { "label": "720p", "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_1/index.m3u8" },
+        { "label": "480p",  "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs2.marketplace-io-none-kode-steeeee.lol%2F&id=bmax1480&key=EWii%23%40%5E%26HNDF2024" },
+        { "label": "360p",  "url": "http://raaeslivetv.raaeslive.com/Max_Sport_2/index.m3u8" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
       "referer": "",
@@ -246,8 +246,8 @@
       "logo": "https://d.top4top.io/p_3776nhyze0.png",
       "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_2/index.m3u8",
       "qualities": [
-        { "label": "1080p", "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_2/index.m3u8" },
-        { "label": "720p",  "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_2/index.m3u8" },
+        { "label": "7020p", "url": "http://raaeslivetv.raaeslive.com/Max_Sport_HD_2/index.m3u8" },
+        { "label": "480p",  "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F&id=bmax2480&key=EWii%23%40%5E%26HNDF2024" },
         { "label": "360p",  "url": "http://raaeslivetv.raaeslive.com/Max_Sport_2/index.m3u8" }
       ],
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -288,9 +288,9 @@
       "name": "NX| BEIN SPORTS 1 HD",
       "description": "بث مباشر BEIN SPORTS 1 HD",
       "logo": "http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",
-      "url": "http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/220364",
+      "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F%2F&id=b1_1080&key=EWii%23%40%5E%26HNDF2024",
       "qualities": [
-        { "label": "HD", "url": "http://atrupo4k.com:8080/SamirAmiYounesAZIM/iG6l7U5diKPsSal/220364" }
+        { "label": "FHD", "url": "https://genral.oxml1237.workers.dev/index.m3u8?base=https%3A%2F%2Fs1.marketplace-io-none-kode-steeeee.lol%2F%2F&id=b1_1080&key=EWii%23%40%5E%26HNDF2024" }
       ],
       "user_agent": "",
       "referer": "",
