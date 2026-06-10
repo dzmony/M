@@ -180,21 +180,6 @@ https://stream.camcloud.stream/stream/ed86507510ca/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALWAN Sports",ALWAN Sports 9
 https://stream.camcloud.stream/stream/4994d2defc1a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 1
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116900.m3u8?token=kidn
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 2
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116901.m3u8?token=kidn
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 3
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116902.m3u8?token=kidn
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 4
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116903.m3u8?token=kidn
-
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 5
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116904.m3u8?token=kidn
-
-#EXTINF:-1 tvg-id="" tvg-name="ALOSTORA Sports" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="ALOSTORA Sports",ALOSTORA Sports 6
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kidnapp.ravynerinnn.workers.dev/116905.m3u8?token=kidn
-
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Post Sport 1 $
 http://go8knm.optikl.ink/O/live/Post/Post/1630675.m3u8
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Post Sport 2 $
@@ -305,13 +290,13 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://super.hima-sab
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 1  A
-http://213.199.33.203:8081/live/ch1.m3u8
+https://stream.oz-tv.store/s1b/b_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 2  A
-http://213.199.33.203:8081/live/ch2.m3u8
+https://stream.oz-tv.store/s1b/b_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 3  A
-http://213.199.33.203:8081/live/ch3.m3u8
+https://stream.oz-tv.store/s1b/b_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",beIN SPORTS 4  A
-http://213.199.33.203:8081/live/ch4.m3u8
+https://stream.oz-tv.store/s1b/b_4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP LOCAL",Bein Sports 1 FHD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://live.plasma4k.workers.dev/beIN_1_PL.m3u8
