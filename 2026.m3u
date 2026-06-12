@@ -5,8 +5,12 @@ https://cdn.yallashooot.pp.ua/hls/ch1.m3u8
 https://streem.rodoye.com/live/fa11c/max1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://00" group-title="بين سبورت ماكس",بين سبورت ماكس 1 HD
 http://wjk30.tutor3.site/live/624319_.m3u8?session=LeV-6zpD7IDsXJ1UZoPvMUwQ2pyB3eUGdPADXcZ5ufB3IlvJvyUjnF1IfZaR7N2RvZ948jfzstv-vkNSjTEA6p0_JIzTSPse&location=local
-#EXTINF:-1 tvg-id="" tvg-logo="http://00" group-title="بين سبورت ماكس",بين سبورت ماكس 2 FHD
-https://live.aab1.top/odai/123321/67
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 1
+https://livepeercdn.studio/hls/6ce1k8qh6zhk8ian/index.m3u8
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 2
+https://livepeercdn.studio/hls/5716cx0dcob4oe5v/index.m3u8
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 3
+https://lbgo.bozztv.com/ssh101/ssh101/max4khdr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://00" group-title="بين سبورت ماكس",بين سبورت ماكس 2 HD
 https://live.aab1.top/odai/123321/68
 #EXTINF:-1 tvg-id="" tvg-logo="http://00" group-title="بين سبورت ماكس",بين سبورت ماكس 3 FHD
