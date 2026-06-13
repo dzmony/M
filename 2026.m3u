@@ -18,7 +18,7 @@ http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 2
 http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://00" group-title="بين سبورت ماكس",بين سبورت ماكس 3 HD
-http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oYNmOjxkKrg7_gmEuI5QiwuXHaNoq-Uljn3yOweDJev2KumamZPILokKQgGFtDvGWMhuiC1KQrb_peKB5Dkzwg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="https://d.top4top.io/p_3700lzycx0.png" group-title="كأس العالم FIFA 2026™", Bein Sport 3 🇫🇷
