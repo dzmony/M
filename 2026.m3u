@@ -2,8 +2,54 @@
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1 (720)
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291502.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291494.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291495.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291496.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291497.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 5 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291498.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 6 4K
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291499.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291500.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291502.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291503.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 5 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291504.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 6 FHD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291505.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291506.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291507.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291508.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291509.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 5 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291510.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 6 HD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291511.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291512.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291513.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291514.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291515.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 5 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291516.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 6 SD
+http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291517.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
 http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
