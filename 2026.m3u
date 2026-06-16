@@ -91,16 +91,16 @@ http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/elshoshserverrr/playlist.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
 http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 1
-https://sweet-truth-729d.han686314.workers.dev/?url=http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 2
-https://livepeercdn.studio/hls/5716cx0dcob4oe5v/index.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 3
-https://lbgo.bozztv.com/ssh101/ssh101/max4khdr/playlist.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 2
-http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
-#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 2
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", IRIB 4K
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", IRIB1080
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", IRIB720
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", IRIB360
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/360p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="STC_755594792003" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Sport 3 🇫🇷
 http://145.239.5.177:80/559/index.m3u8
