@@ -4,17 +4,17 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://live.kooran18.cfd/tist1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 4K
 https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream_960x540_2000k.m3u8
-#EXTINF:-1 group-title="alwan,alwan 1  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 1
 http://virtualdbxv.com:8080/alwan1hd/index.m3u8
-#EXTINF:-1 group-title="alwan,alwan 2  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 2
 http://virtualdbxv.com:8080/alwan2hd/index.m3u8
-#EXTINF:-1 group-title="alwan,alwan 3  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 3
 http://virtualdbxv.com:8080/alwan3hd/index.m3u8
-#EXTINF:-1 group-title="alwan,alwan 4  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 4
 http://virtualdbxv.com:8080/alwan4hd/index.m3u8
-#EXTINF:-1 group-title="alwan,alwan 5  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 5
 http://virtualdbxv.com:8080/alwan5hd/index.m3u8
-#EXTINF:-1 group-title="alwan,alwan 6  
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 6
 http://virtualdbxv.com:8080/alwan6hd/index.m3u8
 #EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="FIFA",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
