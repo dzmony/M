@@ -6,6 +6,10 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://live.kooran18.cfd/ti
 https://sweet-truth-729d.han686314.workers.dev/?url=https://cdn.karwan.tv/shna-tv-3/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
 https://sweet-truth-729d.han686314.workers.dev/?url=https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream_960x540_2000k.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/bein-max/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/bein-max-2/index.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN TOD",Bein TOD1
 https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/TOD1/index.m3u8
@@ -14,8 +18,23 @@ https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyo
 #EXTINF:-1 group-title="AR | BEIN TOD",Bein TOD3
 https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/TOD3/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 1
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/alwan-sport-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 2
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/alwan-sport-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 3
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/alwan-sport-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 4
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/alwan-sport-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 5
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.kurdtv.live/alwan-sport-5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports A",ALWAN Sports 6
+https://stream.kurdtv.live/alwan-sport-6/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 1
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?urlhttp://virtualdbxv.com:8080/alwan1hd/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://virtualdbxv.com:8080/alwan1hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 2
 https://sweet-truth-729d.han686314.workers.dev/?url=http://virtualdbxv.com:8080/alwan2hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALWAN Sports" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN Sports",ALWAN Sports 3
@@ -45,29 +64,29 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://1nyaler.streamhostin
 
 
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 1 4K
-http://palestine.vibertv.cyou/bein-mx-4k-1/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-4k-1/index.m3u8
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 2 4K
-http://palestine.vibertv.cyou/bein-mx-4k-2/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-4k-2/index.m3u8
 
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 1 HD
-http://palestine.vibertv.cyou/bein-mx-HD-1/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-HD-1/index.m3u8
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 2 HD
-http://palestine.vibertv.cyou/bein-mx-HD-2/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-HD-2/index.m3u8
 
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 1 SD
-http://palestine.vibertv.cyou/bein-mx-SD-1/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-SD-1/index.m3u8
 #EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 2 SD
-http://palestine.vibertv.cyou/bein-mx-SD-2/index.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/bein-mx-SD-2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
 http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", Bein Max 1
 http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 1
-http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 2
 https://livepeercdn.studio/hls/5716cx0dcob4oe5v/index.m3u8
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="" group-title="كأس العالم FIFA 2026™", SUPER TV 3
