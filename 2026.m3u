@@ -14,6 +14,8 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1966_.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein rooma1
 https://live.kooraa2.cfd/rooma1_720/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein rooma1 B
+https://live.kooraa2.cfd/rooma1.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein shna-tv-3  
 https://sweet-truth-729d.han686314.workers.dev/?url=https://ndlive.host247.net/live/shna3/playlist.m3u8
