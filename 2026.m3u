@@ -2,6 +2,11 @@
 https://sweet-truth-729d.han686314.workers.dev/?url=https://fra-prod-catalyst-0.lp-playback.studio/hls/video+a01399atfz7wy2oc/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1 
 https://sweet-truth-729d.han686314.workers.dev/?url=https://s3.us-east-1.amazonaws.com/cdnh120/hls/0/stream_1280x720_3300k.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1
+https://sweet-truth-729d.han686314.workers.dev/?url=https://s3.us-east-1.amazonaws.com/cdnh120/hls/0/stream_960x540_2000k.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1
+https://s3.us-east-1.amazonaws.com/cdnh120/hls/0/stream_640x360_800k.m3u8
+
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd local stm
