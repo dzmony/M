@@ -10,8 +10,8 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://pos1.aizennsoo.worke
 https://pos1.aizennsoo.workers.dev/live.m3u8 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1
 https://s3.us-east-2.amazonaws.com/cdnh122/hls/0/stream.m3u8
-
-
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Max 1
+https://sweet-truth-729d.han686314.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd local stm
