@@ -18,7 +18,7 @@ https://mflixott.com/tv/dd/live2.php?id=116.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1
 https://s3.us-east-2.amazonaws.com/cdnh122/hls/0/stream.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Max 1
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Max  
 https://sweet-truth-729d.han686314.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
@@ -30,8 +30,8 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1965_.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 4 Hd local stm
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1966_.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein rooma1
-https://live.kooraa2.cfd/rooma1_720/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein rooma 1
+https://sweet-truth-729d.han686314.workers.dev/?url=https://as.roomtu.store/rook1_720/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein rooma1 B
 https://live.kooraa2.cfd/rooma1.m3u8
 
