@@ -56,11 +56,10 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://ndlive.host247.net/l
 https://sweet-truth-729d.han686314.workers.dev/?url=https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream_960x540_2000k.m3u8
 
 
-#EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 1
-https://tfwt1gradgmttgy41hqbifaaugcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c5c795fb75ceb7aa733c8514-178171694128257&wsIPSercert=f337de0b42b9149f68f912fbf696e03f&wsBindIP=2&wsserid=1168240832904154750
-#EXTINF:-1 group-title="BEIN MAX",Bein Sports Max 2
+#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png",Arabic
+https://ed.omener.xyz/qoozn2_720/index.m3u8
+#EXTINF:-1 group-title="BEIN MAX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png",Arabic
 https://match-now.live/play.php
-
 
 
 
