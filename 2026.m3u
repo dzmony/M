@@ -26,7 +26,12 @@ https://stream.camcloud.stream/stream/c544e880c3ae/playlist.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 3  1080
 https://stream.camcloud.stream/stream/8180b5ca6618/playlist.m3u8
 
-
+#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 480
+https://stream.camcloud.stream/stream/1351ec7c7adc/playlist.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 720
+https://stream.camcloud.stream/stream/6bd1cd99fdb8/playlist.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 1080
+https://stream.camcloud.stream/stream/0bbaffb363b7/playlist.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
 https://sweet-truth-729d.han686314.workers.dev/?url=https://3.3lok3.site/hls/bein1/stream.m3u8
