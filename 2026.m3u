@@ -14,6 +14,10 @@ https://xyzcloud3.xyz/bein4k/index.m3u8
 https://xyzcloud3.xyz/bein/index.m3u8
 
 
+#EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
+https://inproviszon.st/beinsportsmax2-sa.m3u8
+
+
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 1
 http://13.51.56.140/hls/hdmax1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
