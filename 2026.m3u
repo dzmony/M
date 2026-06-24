@@ -8,12 +8,8 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1966_.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1look
 http://lookprotvappfree.mytunnel.org:8080/memfs/e1dbc72b-e5cb-4a87-bdc2-3fe989da615e.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd
-https://sweet-truth-729d.han686314.workers.dev/?url=http://h29.primeediting.online/live/610303030/index.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Auto 
-https://sweet-truth-729d.han686314.workers.dev/?url=https://raw.githubusercontent.com/mahmoudhwhwhwh/Auto.m3u8/refs/heads/main/index_bein%20max1.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein max 2 Auto 
-https://sweet-truth-729d.han686314.workers.dev/?url=https://raw.githubusercontent.com/mahmoudhwhwhwh/Auto.m3u8/refs/heads/main/index_bein%20max2.m3u8
+
+
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 1
 http://13.51.56.140/hls/hdmax1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
@@ -63,29 +59,13 @@ https://183.bozztv.com/giatv/giatv-BEINMAX2KRDTV/BEINMAX2KRDTV/chunks.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1
 https://183.bozztv.com/giatv/giatv-BEINMAX1/BEINMAX1/chunks.m3u8
 
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
-https://km.mznsria.space/eooors2_720/index.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 
-https://sweet-truth-729d.han686314.workers.dev/?url=https://3.3lok3.site/hls/bein2/stream.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3 
-https://sweet-truth-729d.han686314.workers.dev/?url=https://3.3lok3.site/hls/bein3/stream.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 b
-http://37.236.226.18:88/Bein-Sport-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 b
-http://37.236.226.18:88/Bein-Sport-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 b
-http://37.236.226.18:88/Bein-Sport-1/video.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 b
-http://37.236.226.18:88/Bein-Sport-2/video.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
-https://sweet-truth-729d.han686314.workers.dev/?url=https://pos1.aizennsoo.workers.dev/live.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1 
-https://pos1.aizennsoo.workers.dev/live.m3u8 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN MAX" tvg-logo="https://i.ibb.co.com/wF0f7Y3B/Bein-Sports-2-Max.png" group-title="AR | BEIN MAX",Bein Sports Max2 
 https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 mflixott
 https://mflixott.com/tv/dd/live.php?id=966.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 mflixott
 https://mflixott.com/tv/dd/live2.php?id=116.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M1
 https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M1.m3u8
@@ -95,10 +75,7 @@ https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:2
 https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M3.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M4
 https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M4.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max1
-https://s3.us-east-2.amazonaws.com/cdnh122/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8psCgmla_OxE1RAGeJP_gcTtH1KX1owe8-muacj47wU33DXKyh73iYg&s" group-title="AR | BEIN MAX",beIN MAX 1 SD  
-https://sweet-truth-729d.han686314.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
+
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
