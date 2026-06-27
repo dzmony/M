@@ -1,5 +1,13 @@
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", stvsport
 http://217.76.62.187/hls/stvsport.m3u8
+#EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max A
+https://we.smarop.store/spoos1.m3u8
+#EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max B
+https://cdn.tetoko.xyz/hls/matcx_720.m3u8
+#EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max C
+https://za.teworld.online/mooott1.m3u8
+
+
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd local stm
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1957_.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd local stm
@@ -14,8 +22,7 @@ http://lookprotvappfree.mytunnel.org:8080/memfs/e1dbc72b-e5cb-4a87-bdc2-3fe989da
 https://edge22.776740.ir.cdn.ir/hls2/bein1.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
-https://inproviszon.st/beinsportsmax2-sa.m3u8
+
 
 
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 1
