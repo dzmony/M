@@ -50,12 +50,11 @@ http://13.51.56.140/hls/dsmax2/index.m3u8
 http://13.51.56.140/hls/max4/index.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1 480
-https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
+https://stream.camcloud.stream/stream/9c78c4827f59/playlist.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1 720
-https://stream.camcloud.stream/stream/a22a12762b2f/playlist.m3u8
+https://stream.camcloud.stream/stream/769f5148143e/playlist.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1 1080
-https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
-
+https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 2 480
 https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8
