@@ -163,7 +163,7 @@ https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyo
 #EXTINF:-1 group-title="AR | BEIN TOD",Bein TOD3
 https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/TOD3/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN TOD",Bein TOD HDR
-https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
+https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
 #EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POST 1
 http://palestine.vibertv.cyou/post1/video.m3u8?token=Dev_Khal
 #EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POST 2
