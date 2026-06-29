@@ -137,18 +137,17 @@ https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyo
 https://sweet-truth-729d.han686314.workers.dev/?url=http://palestine.vibertv.cyou/TOD3/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN TOD",Bein TOD HDR
 https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 1
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POST 1
 http://palestine.vibertv.cyou/post1/video.m3u8?token=Dev_Khal
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 2
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POSTPOST 2
 http://palestine.vibertv.cyou/post2/video.m3u8?token=Dev_Khal
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 3
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POSTPOST 3
 http://palestine.vibertv.cyou/post3/video.m3u8?token=Dev_Khal
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 4
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POSTPOST 4
 http://palestine.vibertv.cyou/post4/video.m3u8?token=Dev_Khal
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 5
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POSTPOST 5
 http://palestine.vibertv.cyou/post5/video.m3u8?token=Dev_Khal
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178231318095371.png",POST 6
+#EXTINF:-1 tvg-id="POST" tvg-name="POST" tvg-logo="https://up6.cc/2026/06/178231318095371.png" group-title="POST",POSTPOST 6
 http://palestine.vibertv.cyou/post6/video.m3u8?token=Dev_Khal
 
 
