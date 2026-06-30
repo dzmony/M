@@ -9,7 +9,7 @@ https://yara-proxy.maroduhoki6.workers.dev/?url=https://stream.forjatn.pro/hls/m
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max D
 https://yara-proxy.maroduhoki6.workers.dev/?url=https://pub-4aa1aaf3896e4dd0923f238800b68845.r2.dev/kickbd-bein4k/main.m3u8
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max E
-http://162.19.221.232:8080/live/MAX1H_02ddf42a/730de37e40fe/41.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://000963.videx.lol/daddy3/372/index.m3u8
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max F
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 
@@ -70,23 +70,23 @@ https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 1
-http://13.51.56.140/hls/hdmax1/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/hdmax1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
-http://13.51.56.140/hls/hdmax2/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/hdmax2/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 3
-http://13.51.56.140/hls/hdmax3/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/hdmax3/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",MAX 1
-http://13.51.56.140/hls/max1/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",MAX 2
-http://13.51.56.140/hls/max2/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max2/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",MAX 3
-http://13.51.56.140/hls/max3/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max3/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",DS MAX 1
-http://13.51.56.140/hls/dsmax1/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/dsmax1/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",DS MAX 2
-http://13.51.56.140/hls/dsmax2/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/dsmax2/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",MAX 4
-http://13.51.56.140/hls/max4/index.m3u8
+https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max4/index.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1 480
 https://stream.camcloud.stream/stream/9c78c4827f59/playlist.m3u8
