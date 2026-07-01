@@ -9,12 +9,13 @@ https://yara-proxy.maroduhoki6.workers.dev/?url=https://stream.forjatn.pro/hls/m
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max D
 https://yara-proxy.maroduhoki6.workers.dev/?url=https://pub-4aa1aaf3896e4dd0923f238800b68845.r2.dev/kickbd-bein4k/main.m3u8
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max E
-https://yara-proxy.maroduhoki6.workers.dev/?url=https://mflixott.com/tv/dd/live.php?id=966
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://live3.wegoal5.win/BMax2-4/index.m3u8
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max F
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max G
 https://mflixott.com/tv/dd/live.php?id=966
-
+#EXTINF:-1 group-title="كأس العالم FIFA 2026™", Bein max G  HDR
+https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 1
 https://yara-proxy.maroduhoki6.workers.dev/?url=https://stm.linkip.org/live/1114_.m3u8
@@ -91,35 +92,6 @@ https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/dsmax2/index.m3u
 #EXTINF:-1 group-title="AR | BEIN MAX",MAX 4
 https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max4/index.m3u8
 
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 1 480
-https://stream.camcloud.stream/stream/9c78c4827f59/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 1 720
-https://stream.camcloud.stream/stream/769f5148143e/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 1 1080
-https://stream.camcloud.stream/stream/9b108ca51de9/playlist.m3u8
-
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 2 480
-https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 2 720
-https://stream.camcloud.stream/stream/ee077fee33a0/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 2  1080
-https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8
-
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 3 480
-https://stream.camcloud.stream/stream/56681b810c24/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 3 720
-https://stream.camcloud.stream/stream/98dd299e7ae3/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 3  1080
-https://stream.camcloud.stream/stream/2374d9843dd4/playlist.m3u8
-
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 480
-https://stream.camcloud.stream/stream/490a4e58f0da/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 720
-https://stream.camcloud.stream/stream/686be4c2621d/playlist.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Max 4 1080
-https://stream.camcloud.stream/stream/0f7ca424775d/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 2
@@ -131,21 +103,14 @@ https://183.bozztv.com/giatv/giatv-BEINMAX1/BEINMAX1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN MAX" tvg-logo="https://i.ibb.co.com/wF0f7Y3B/Bein-Sports-2-Max.png" group-title="AR | BEIN MAX",Bein Sports Max2 
 https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 mflixott
-https://mflixott.com/tv/dd/live.php?id=966.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 mflixott
-https://mflixott.com/tv/dd/live2.php?id=116.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M1
-https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M1.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M2
-https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M2.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M3
-https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M3.m3u8
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports M4
-https://sweet-truth-729d.han686314.workers.dev/?url=http://nile.hidencloud.com:24699/live/M4.m3u8
-
-#EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
+https://live3.wegoal5.win/BMax1-4/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 
+https://live3.wegoal5.win/BMax2-4/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3
+https://live3.wegoal5.win/BMax3-2/index.m3u8
+#EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4
+https://live3.wegoal5.win/BMax4-1/index.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1
 https://sweet-truth-729d.han686314.workers.dev/?url=https://table.houseinventer.com/pdf/AzMjD2IyADQPb2tLfQ/index.m3u8
