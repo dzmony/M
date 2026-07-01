@@ -93,22 +93,22 @@ https://tv.motiur.xyz/api/proxy.php?url=http://13.51.56.140/hls/max4/index.m3u8
 
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 2
-https://183.bozztv.com/giatv/giatv-BEINMAX2KRDTV/BEINMAX2KRDTV/chunks.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://183.bozztv.com/giatv/giatv-BEINMAX2KRDTV/BEINMAX2KRDTV/chunks.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Max 1
-https://183.bozztv.com/giatv/giatv-BEINMAX1/BEINMAX1/chunks.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://183.bozztv.com/giatv/giatv-BEINMAX1/BEINMAX1/chunks.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN MAX" tvg-logo="https://i.ibb.co.com/wF0f7Y3B/Bein-Sports-2-Max.png" group-title="AR | BEIN MAX",Bein Sports Max2 
-https://cp11.adabmedia.com/hls2/sport.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 1 
-https://live3.wegoal5.win/BMax1-4/index.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://live3.wegoal5.win/BMax1-4/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 2 
-https://live3.wegoal5.win/BMax2-4/index.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://live3.wegoal5.win/BMax2-4/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 3
-https://live3.wegoal5.win/BMax3-2/index.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://live3.wegoal5.win/BMax3-2/index.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein Sports Max 4
-https://live3.wegoal5.win/BMax4-1/index.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://live3.wegoal5.win/BMax4-1/index.m3u8
 
 
 
