@@ -17,9 +17,9 @@ https://yara-proxy.maroduhoki6.workers.dev/?url=https://1.simoplay.com/my-hls/0w
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 1
-https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1114_.m3u8
+https://stm.linkip.org/live/1114_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 2
-https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1113_.m3u8
+https://stm.linkip.org/live/1113_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 3
 https://yara-proxy.maroduhoki6.workers.dev/?url=https://stm.linkip.org/live/1112_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 4
@@ -29,7 +29,7 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d.top4top.io/p_3700lzycx0.png" group-title="ALWAN SPORT",ALWAN SPORT 1
-https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/3461_.m3u8
+https://yara-proxy.maroduhoki6.workers.dev/?url=https://stm.linkip.org/live/3461_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d.top4top.io/p_3700lzycx0.png" group-title="ALWAN SPORT",ALWAN SPORT 2
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/3460_.m3u8
@@ -50,10 +50,10 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/3455_.m3u8
 
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="https://i.imgur.com/vxkap0u.png" group-title="Thmanyah", ثمانية 2
-https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/3454_.m3u8
+https://stm.linkip.org/live/3454_.m3u8
 
 #EXTINF:-1 tvg-id="STC_755593768125" tvg-logo="https://i.imgur.com/vxkap0u.png" group-title="Thmanyah", ثمانية 3
-https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/3453_.m3u8
+https://stm.linkip.org/live/3453_.m3u8
 
 #EXTINF:-1 group-title="AR | BEIN MAX",Bein max 1 Hd local stm
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1957_.m3u8
@@ -68,7 +68,6 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/
 https://edge22.776740.ir.cdn.ir/hls2/bein1.m3u8
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 2
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
 
 
 #EXTINF:-1 group-title="AR | BEIN MAX",HD MAX 1
