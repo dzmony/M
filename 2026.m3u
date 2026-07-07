@@ -25,6 +25,101 @@ https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.cdnstream.str
 #EXTINF:-1 group-title="كأس العالم FIFA 2026™", beIN MAX 1 HD
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stream.cdnstream.stream/stream/ec3af41acb79/playlist.m3u8
 
+#EXTINF:-1 group-title=FIFA 2026™", HD MAX 1
+http://13.51.56.140/hls/hdmax1/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", HD MAX 2
+http://13.51.56.140/hls/hdmax2/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", HD MAX 3
+http://13.51.56.140/hls/hdmax3/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", ,MAX 1
+http://13.51.56.140/hls/max1/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", MAX 2
+http://13.51.56.140/hls/max2/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", MAX 3
+http://13.51.56.140/hls/max3/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", DS MAX 1
+http://13.51.56.140/hls/dsmax1/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", DS MAX 2
+http://13.51.56.140/hls/dsmax2/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", MAX 4
+http://13.51.56.140/hls/max4/index.m3u8
+
+
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 4K (SA)
+http://13.51.56.140/hls/_wc_bein_max_1_4k_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 4K (NX)
+http://13.51.56.140/hls/_wc_bein_max_1_4k_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 FHD (SS)
+http://13.51.56.140/hls/_wc_bein_max_1_fhd_ss/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 FHD (NX)
+http://13.51.56.140/hls/_wc_bein_max_1_fhd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 FHD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_1_fhd_msh/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 HD (SA)
+http://13.51.56.140/hls/_wc_bein_max_1_hd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 HD (SS)
+http://13.51.56.140/hls/_wc_bein_max_1_hd_ss/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 HD (NX)
+http://13.51.56.140/hls/_wc_bein_max_1_hd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 HD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_1_hd_msh/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 SD (SA)
+http://13.51.56.140/hls/_wc_bein_max_1_sd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 SD (NX)
+http://13.51.56.140/hls/_wc_bein_max_1_sd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 1 SD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_1_sd_msh/index.m3u8
+
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 4K (SA)
+http://13.51.56.140/hls/_wc_bein_max_2_4k_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 4K (NX)
+http://13.51.56.140/hls/_wc_bein_max_2_4k_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 FHD (SS)
+http://13.51.56.140/hls/_wc_bein_max_2_fhd_ss/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 FHD (NX)
+http://13.51.56.140/hls/_wc_bein_max_2_fhd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 FHD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_2_fhd_msh/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 HD (SA)
+http://13.51.56.140/hls/_wc_bein_max_2_hd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 HD (SS)
+http://13.51.56.140/hls/_wc_bein_max_2_hd_ss/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 HD (NX)
+http://13.51.56.140/hls/_wc_bein_max_2_hd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 HD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_2_hd_msh/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 SD (SA)
+http://13.51.56.140/hls/_wc_bein_max_2_sd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 SD (NX)
+http://13.51.56.140/hls/_wc_bein_max_2_sd_nx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 2 SD (MSH)
+http://13.51.56.140/hls/_wc_bein_max_2_sd_msh/index.m3u8
+
+
+
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 3 4K (SA)
+http://13.51.56.140/hls/_wc_bein_max_3_4k_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 3 4K (MX)
+http://13.51.56.140/hls/_wc_bein_max_3_4k_mx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 3 FHD (MX)
+http://13.51.56.140/hls/_wc_bein_max_3_fhd_mx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 3 HD (SA)
+http://13.51.56.140/hls/_wc_bein_max_3_hd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 3 SD (SA)
+http://13.51.56.140/hls/_wc_bein_max_3_sd_sa/index.m3u8
+
+
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 4 4K (SA)
+http://13.51.56.140/hls/_wc_bein_max_4_4k_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 4 4K (MX)
+http://13.51.56.140/hls/_wc_bein_max_4_4k_mx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 4 FHD (MX)
+http://13.51.56.140/hls/_wc_bein_max_4_fhd_mx/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 4 HD (SA)
+http://13.51.56.140/hls/_wc_bein_max_4_hd_sa/index.m3u8
+#EXTINF:-1 group-title=FIFA 2026™", BEIN MAX 4 SD (SA)
+http://13.51.56.140/hls/_wc_bein_max_4_sd_sa/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://j.top4top.io/p_3700znf5d0.png" group-title="AL FAJER",AL FAJER 1 s1
 https://sweet-truth-729d.han686314.workers.dev/?url=https://stm.linkip.org/live/1114_.m3u8
