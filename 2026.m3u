@@ -11,6 +11,13 @@ https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL2NsaTIzNDUubGl2ZToyMDgyL2xpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://m4roo24.github.io/kurd-sport/Alwan-sport.png" group-title="Alwan Sport",Alwan Sport 6
 https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL2NsaTIzNDUubGl2ZToyMDgyL2xpdmUvMTg1OTExODM0MTQ1Lzc1NTY0NjQzNTM2Ny8yODI3MjIubTN1OA&ext=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m4roo24.github.io/kurd-sport/beinsport1.png" group-title="beIN Sport",beIN Sport 1
+https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL21haW4ydnVsdC50b3A6ODAvbGl2ZS8wNTA0NTU1NzM4LzE2MzAyNzkyMjAvNDgzNjg3Lm0zdTg&ext=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m4roo24.github.io/kurd-sport/beinsport2.png" group-title="beIN Sport",beIN Sport 2
+https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL21haW4ydnVsdC50b3A6ODAvbGl2ZS8wNTA0NTU1NzM4LzE2MzAyNzkyMjAvNDgzNjkwLm0zdTg&ext=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m4roo24.github.io/kurd-sport/beinsport3.png" group-title="beIN Sport",beIN Sport 3
+https://live.kurdtips.uno/proxy.php?stream=aHR0cDovL21haW4ydnVsdC50b3A6ODAvbGl2ZS8wNTA0NTU1NzM4LzE2MzAyNzkyMjAvNDgzNjkzLm0zdTg&ext=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m4roo24.github.io/kurd-sport/asterasport2.png" group-title="Sport",Astera Sport 2
 https://live.kurdtips.uno/proxy.php?stream=aHR0cDovLzE4NS45NS4xODQuMzM6MjU0NjEvbGl2ZS8xMjA1NDEvMjAzNjQvNDMyMS5tM3U4&ext=.m3u8
 
